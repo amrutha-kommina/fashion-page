@@ -15,7 +15,7 @@ html, body{
     /* background-color: #f6eeee; */
     display: grid;
     grid-template-columns: 25% 25% 50%;
-    grid-template-rows: 26% 54% 2;
+    grid-template-rows: 26% 56% 18;
 }
 
 #left-top-left{
