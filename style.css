@@ -15,10 +15,7 @@ html, body{
     /* background-color: #f6eeee; */
     display: grid;
     grid-template-columns: 25% 25% 50%;
-    grid-template-rows: 26% 55% 19%;
-    /* grid-template-columns: 50% 50%; */
-    /* grid-template-columns: 20% 20% 20% 20% 20% 20%;
-    grid-template-rows: 20% 20% 20% 20% 20%; */
+    grid-template-rows: 26% 54% 2;
 }
 
 #left-top-left{
@@ -124,7 +121,7 @@ html, body{
 @media (max-width:600px){
     #main{ 
         grid-template-columns: 50% 50%;
-        grid-template-rows: 60px 34% 8%; 
+        grid-template-rows: 60px 27% 12%; 
     }
     
     #left-top-left{
@@ -176,7 +173,7 @@ html, body{
     }
     
     #left-bottom p{
-        width: 90%;
+        width: 95%;
         font-size: 13px;
         padding: 5px 20px;
     }
@@ -193,8 +190,8 @@ html, body{
     }
     
     #arrow{
-        top: 54%;
-        left: 42%; 
+        top: 51%;
+        left: 40%; 
         padding: 10px; 
         rotate: 90deg;
     } 
