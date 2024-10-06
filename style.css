@@ -15,7 +15,7 @@ html, body{
     /* background-color: #f6eeee; */
     display: grid;
     grid-template-columns: 25% 25% 50%;
-    grid-template-rows: 26% 56% 18;
+    grid-template-rows: 26% 56% 18%;
 }
 
 #left-top-left{
@@ -190,7 +190,7 @@ html, body{
     }
     
     #arrow{
-        top: 49%;
+        top: 50%;
         left: 40%; 
         padding: 10px; 
         rotate: 90deg;
